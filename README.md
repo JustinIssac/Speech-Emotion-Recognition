@@ -16,3 +16,9 @@ The following python libraries need to be installed:
 * seaborn
 * sklearn
 * librosa
+
+## Team
+
+[![Justin Varghese Issac](https://avatars.githubusercontent.com/u/115332885?v=4)](https://github.com/JustinIssac) | [![Sai Mahima JS](https://avatars.githubusercontent.com/u/86562859?v=4)](https://github.com/Saimahima162003) | [![P Aromal](https://avatars.githubusercontent.com/u/103274505?v=4)](https://github.com/Krizzzty)
+--- | --- | ---
+[Justin Varghese Issac](https://github.com/JustinIssac) | [Sai Mahima JS](https://github.com/Saimahima162003) | [P Aromal](https://github.com/Krizzzty)
